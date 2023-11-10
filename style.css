@@ -1,0 +1,12 @@
+body{
+    background-color: #D9DDE0;
+}
+
+.navbar { background: rgb(46,45,59);
+    background: linear-gradient(96deg, rgba(46,45,59,1) 0%, rgba(190,202,196,0.9781162464985994) 35%, rgba(214,214,214,1) 100%);
+    -webkit-box-shadow: 5px 5px 15px 3px #666;
+    box-shadow: 5px 5px 15px 3px #666;
+     }
+.navbar .navbar-nav .nav-link { color: #fff; }
+.navbar .navbar-nav .nav-link:hover { color: #2e302d; }
+.navbar .navbar-nav .active > .nav-link { color: #2e302d; }
